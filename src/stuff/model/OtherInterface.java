@@ -4,5 +4,5 @@ public interface OtherInterface
 {
 	public void doesNada();
 	public void doesOtherNada();
-	public int countsnada(int someValue);
+	public int countsNada(int someValue);
 }
